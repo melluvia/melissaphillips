@@ -28,12 +28,10 @@ ul {
   -webkit-box-shadow: 0 1px 6px rgba(0, 0, 0, 0.175);
   box-shadow: 0 1px 6px rgba(0, 0, 0, 0.175);
 }
-figcaption {
-  display: block;
+.caption {
   text-align: center;
   font-size: .90em;
   width: 30%;
-  margin-left: 37em;
 }
 h3 {
   font-family: verdana;
