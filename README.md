@@ -1,2 +1,2 @@
 # melluvia.github.io
-a tribute page for Joshua Phillips
+Portfolio website for Melissa Phillips Design
