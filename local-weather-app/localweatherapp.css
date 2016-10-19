@@ -1,0 +1,71 @@
+body {
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   background-size: cover;
+   -o-background-size: cover;
+   font-family: raleway;
+}
+
+.interface {
+  background: rgba(0, 0, 0, 0.5); 
+  color: white;
+  border-radius: 4px; 
+  float: none;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+
+.weather-icon {
+  padding: 5rem;
+}
+
+.icon-pic {
+  height: 10rem;
+  padding: 4rem;
+}
+
+#city {
+  font-size: 4rem;
+  margin-bottom: -5rem;
+}
+
+.temp {
+  padding: 0rem;
+  font-size: 10rem;
+}
+
+#temp-sign {
+  font-size: 4rem;
+  margin-top: -10rem;
+  margin-right: -14rem;
+  padding-bottom: 3rem;
+}
+
+.round-button-circle {
+  padding-top: .9rem;
+	padding-bottom: .5rem;
+  padding-right: 1rem;
+  border-radius: 50%;
+	border: 1px solid white;
+  overflow:hidden;
+  color: white;
+  background: none; 
+  margin-top: -1rem;
+}
+
+.round-button-circle:hover {
+	background-color: rgba(0, 0, 0, 0.25);
+  color: white;
+}
+
+.icon {
+  padding-top: 1rem;
+}
+
+#forecast {
+  font-size: 3rem;
+  padding-bottom: 3rem;
+}
+
